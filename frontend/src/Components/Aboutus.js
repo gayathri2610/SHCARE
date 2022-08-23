@@ -1,6 +1,6 @@
 import React from "react";
 import Navigationbar from "./Navigationbar";
-import skinc from "./skinc.jpeg";
+// import skinc from "./skinc.jpeg";
 
 const Aboutus = () => {
   return (
@@ -34,7 +34,7 @@ const Aboutus = () => {
             </div>
             <div className="mt-6">
               <h1>Hair-care</h1>
-              <img src={skinc} alt="Logo" />;
+              {/* <img src={skinc} alt="Logo" />; */}
             </div>
           </div>
         </div>
