@@ -19,7 +19,6 @@ function App() {
       ></div>
       <Routes>
         <Route path="/h" element={<Home />} />
-
         <Route path="/Aboutus" element={<Aboutus />} />
         <Route path="/tracker" element={<Tracker />} />
         <Route path="/login" element={<Login />} />

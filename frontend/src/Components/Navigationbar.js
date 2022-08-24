@@ -4,11 +4,11 @@ const Navigationbar = () => {
   return (
     <div>
       {" "}
-      <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+      <nav className="navbar navbar-expand-lg bg-dark navbar-dark ">
         <div className="container-fluid">
           <a className="navbar-brand" href="#"></a>
           <button
-            className="navbar-toggler"
+            className="navbar-toggler "
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNavAltMarkup"

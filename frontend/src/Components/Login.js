@@ -52,7 +52,7 @@ const Login = () => {
           >
             ENTER{" "}
           </div>
-          <div className="forgot password"> Forgot Password</div>
+          <div className="forgot password"> Forgot Password?</div>
         </div>
       </div>
     </div>
